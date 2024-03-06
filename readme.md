@@ -50,6 +50,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=naveensing575&theme=tokyonight)](https://git.io/streak-stats)
 
-![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveensing575&show_icons=true&theme=radical)
+![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=naveensing575&show_icons=false&theme=tokyonight)
 
 
