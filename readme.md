@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="https://www.linkedin.com/in/naveen-singh-81a171175/">
+    <a href="https://www.linkedin.com/in/naveen-singh-81a171175/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.youtube.com/channel/UC4Q6beTPOHTdiE4k4weK8cg">
+    <a href="https://www.youtube.com/channel/UC4Q6beTPOHTdiE4k4weK8cg" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
