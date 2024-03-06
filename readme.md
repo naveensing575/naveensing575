@@ -20,11 +20,11 @@
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring full stack applications.
 
-- :zap: In my free time, I develop web apps with creative ideas that can be a solution to a real-world problem.
+- :zap: In my free time, I like to build web apps to learn more about real-world problems and how to solve them.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/naveen-singh-81a171175/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-singh-81a171175/)
 
 ---
 
