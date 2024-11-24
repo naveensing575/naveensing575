@@ -22,6 +22,3 @@ I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=naveensing575&theme=tokyonight)](https://git.io/streak-stats)
